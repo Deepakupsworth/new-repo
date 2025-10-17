@@ -20,4 +20,4 @@ jobs:
           key: ${{ secrets.HOSTINGER_SSH_KEY }}
           port: 22
           source: "."
-          target: "/home/username/public_html"
+          target: "/home/u760380247/public_html"
