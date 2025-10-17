@@ -18,6 +18,6 @@ jobs:
           host: ${{ secrets.HOSTINGER_HOST }}
           username: ${{ secrets.HOSTINGER_USER }}
           key: ${{ secrets.HOSTINGER_SSH_KEY }}
-          port: 22
+          port: 65002
           source: "."
           target: "/home/u760380247/public_html"
