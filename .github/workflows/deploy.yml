@@ -20,4 +20,4 @@ jobs:
           key: ${{ secrets.HOSTINGER_SSH_KEY }}
           port: 65002
           source: "."
-          target: "/home/u760380247/public_html"
+          target: "/home/u760380247/domains/unxplordsaudi.com/public_html"
